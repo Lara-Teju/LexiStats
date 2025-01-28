@@ -20,10 +20,11 @@ Clone the repository:
 
 ```python
 git clone https://github.com/yourusername/codexia.git
-
+```
 Install dependencies:
 ```python
 pip install pandas numpy matplotlib seaborn scipy
+```
 Open Jupyter Notebook and explore eda_analysis.ipynb & hypothesis_testing.ipynb.
 
 ## ⭐ Contributions & Feedback:
